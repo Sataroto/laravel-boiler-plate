@@ -170,7 +170,6 @@ Inside the `exa` folder, there are a lot of classes provided by this **skeleton*
 
 ## Credits
 
-- [Wendell Adriel](https://github.com/WendellAdriel)
 - [All Contributors](../../contributors)
 
 ## Contributing
